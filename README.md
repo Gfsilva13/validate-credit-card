@@ -6,7 +6,7 @@
 #### Utilizando o GitHub Copilot como assistente de codificação, exploramos como a inteligência artificial pode acelerar o desenvolvimento.
 
 ### 🚀 Prompt para gerar a funcão JavaScript com o GitHub Copilot
-`Create a function to validate a number credit card with base to image 'base_credit_card.jpg' to discover the 'bandeira'`
+`Create a function to validate a number credit card with base to image 'base_credit_card.jpg' to discover the brand`
 
 ### 🛠 Contextos adicionados
 * Arquivo `index.js`
